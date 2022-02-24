@@ -1,0 +1,30 @@
+Microsoft Windows [Version 10.0.19042.1466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\lab>sqlplus
+
+SQL*Plus: Release 19.0.0.0.0 - Production on Wed Feb 2 13:27:20 2022
+Version 19.3.0.0.0
+
+Copyright (c) 1982, 2019, Oracle.  All rights reserved.
+
+Enter user-name: / as sysdba
+
+Connected to:
+Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
+Version 19.3.0.0.0
+
+SQL> alter session set "_ORACLE_SCRIPT"=true;
+
+Session altered.
+
+SQL> create user admin identified by admin;
+
+User created.
+
+SQL> grant ALL PRIVILEGES TO admin;
+
+Grant succeeded.
+
+SQL>
+SQL>
