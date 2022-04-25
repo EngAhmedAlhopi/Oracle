@@ -26,5 +26,3 @@ SQL> grant ALL PRIVILEGES TO admin;
 
 Grant succeeded.
 
-SQL>
-SQL>
