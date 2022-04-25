@@ -1,0 +1,8 @@
+هذه الاوامر تكتب اول ما تفتح cmd 
+
+
+
+expdp system/كلمة سر اوراكل عند التثبيت dumpfile = exp.dmp schemas=hr             =================>     export schema in oracle
+
+
+impdp 
