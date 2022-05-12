@@ -5,7 +5,7 @@
 expdp system/كلمة سر اوراكل عند التثبيت dumpfile = exp.dmp schemas=hr             =================>     export schema in oracle
 
 
-impdp system/كلمة سر اوراكل عند التثبيت dumpfile = exp.dmp schemas=hr             =================>      import schema in oracle
+impdp system/كلمة سر اوراكل عند التثبيت dumpfile = exp.dmp                        =================>      import schema in oracle
 
 
 
