@@ -2496,8 +2496,6 @@ VALUES  (200
         , 'AC_ACCOUNT'  
         , 90  
         );  
-END; 
-
 
 ALTER TABLE departments   
   ENABLE CONSTRAINT dept_mgr_fk;
