@@ -2,6 +2,13 @@
 
 
 
+  يجب وضع الملفات المطلوب استيرادها في مجلد [C:\app\admin\orcl\dpdump]  
+
+
+
+
+
+
 expdp system/كلمة سر اوراكل عند التثبيت dumpfile = exp.dmp schemas=hr             =================>     export schema in oracle
 
 
