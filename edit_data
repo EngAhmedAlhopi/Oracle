@@ -1,0 +1,1 @@
+expdp schema/schema_password@orcl dumpfile=test_user.dmp schemas=test_user logfile=test_user.log;
